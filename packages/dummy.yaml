@@ -1,0 +1,5 @@
+---
+packages:
+  - name: larix_dummy_package
+    repository_type: git-https
+    repository_url: https://github.com/YusukeSuzuki/larix_dummy_package.git
